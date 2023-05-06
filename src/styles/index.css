@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.box {
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color: rgb(61, 60, 60);
+    justify-content: center;
+    text-align: center;
+    width: 4em;
+    font-weight: bold;
+    font-size: 1.25em;
+}
